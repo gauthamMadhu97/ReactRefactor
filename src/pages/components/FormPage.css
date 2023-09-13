@@ -1,0 +1,254 @@
+html:root {
+    background-color: white;
+}
+
+.border-lightgray-4px {
+    border: 4px solid lightgray;
+}
+
+.border-rad-cards {
+    border-radius: 16px;
+    border: 1px solid #dadce5;
+}
+.testcss{
+    padding: 7.5px 16px !important;
+}
+.progress-bar {
+    width: 100%;
+    height: 20px;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+    overflow: hidden;
+  }
+  
+  .progress-bar-inner {
+    height: 100%;
+    background-color: #3f51b5; /* Change this color to your desired progress color */
+    transition: width 0.5s ease-in-out;
+  }
+.addCls{
+    width: 548px;
+    height: 761px;
+    top: 131px;
+    left: 86px;
+    padding: 24px;
+    border-radius: 8px;
+    gap: 32px;
+    
+}
+.newClr {
+    background-color: #001A5C;
+}
+.firstHeading {
+font-size: 40px;
+font-weight: 500;
+line-height: 59px;
+letter-spacing: 0em;
+text-align: center;
+}
+.secondHeading{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.thirdHeading{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+}
+.fourthHeading{
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+.signUp{
+    width: 548px;
+height: 825px;
+top: 99px;
+left: 86px;
+padding: 24px;
+border-radius: 8px;
+gap: 32px;
+}
+.signUpButton{
+    width: 500px;
+height: 56px;
+padding: 16px 24px 16px 24px;
+border-radius: 8px;
+border: 1px;
+gap: 8px;
+}
+.headerCss {
+font-size: 24px;
+font-weight: 700;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+}
+.headerName {
+font-size: 24px;
+font-weight: 700;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+}
+.keyContact{
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.cardheadercss{
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+color: #686868;
+}
+.insidecard2ndheader{
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+font-size: 20px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+}
+.inside{
+font-size: 12px;
+font-weight: 400;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: left;
+font-size: 12px;
+font-weight: 500;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: left;
+}
+.textNews{
+font-size: 17px;
+font-weight: 900;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+font-size: 14px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: left;
+}
+.newTestCss{
+    height: 100%;
+    flex-direction: column-reverse;
+}
+.h-Auto{
+    height: auto;
+}
+.reverse{
+    flex-direction: column-reverse;
+}
+.remBorder{
+    border: none;
+    background-color: unset;
+    border-radius: unset;
+    box-shadow: unset;
+    padding-bottom: unset;
+    padding-top: unset;
+}
+.bgLightGreen {
+    background: #E7FFF3;
+    box-shadow: 0px 4px 4px 0px #00000040;
+
+}
+.text-custom-gray{
+    color: #686868;
+}
+.custom-inputStyle{
+    border: 1px solid #DCDCDC;
+    color: #A9A9A9;
+    padding: 10px;
+    border-radius: 6px;
+    font-size: 14px;
+}
+.custom-fontSize11{
+    font-size: 11px !important;
+    color: #686866;
+}
+.CustomSubmit-btn{
+    background: #05766F;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 12px, 24px, 12px, 24px;
+}
+.bg-treeImg{
+    opacity: 0.30000;
+    transform: rotate(0deg);
+}
+.bg-bottomImg{
+    position: absolute;
+    width: 100%;
+    height: 4%;
+    object-fit: cover;
+}
+/* .bg-color-h {
+    background: linear-gradient(0deg, #E5E7EB, #E5E7EB),linear-gradient(0deg, #FFFFFF, #FFFFFF);
+    box-shadow: 0px 0px 8px 0px #0000001A;
+
+} */
+.headerNav{
+    background: #FFFFFF;
+    border-bottom: 1px solid #E5E7EB;
+    box-shadow: 0px 0px 8px 0px #0000001A;
+
+}
+.advancedCss{
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.hardHeaderCssBlack{
+font-size: 20px;
+font-weight: 700;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.hardHeaderCssBlack2{
+font-size: 24px;
+font-weight: 700;
+line-height: 25px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.headerclrtable{
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.clrBlue{
+    background-color: #BFD4FF;
+    border: 1px solid #BFD4FF;
+}

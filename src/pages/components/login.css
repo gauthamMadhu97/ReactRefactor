@@ -1,0 +1,12 @@
+.addCls{
+    width: 548px;
+    height: 761px;
+    top: 131px;
+    left: 86px;
+    padding: 24px;
+    border-radius: 8px;
+    gap: 32px;
+}
+.newClr {
+    background-color: #001A5C;
+}
