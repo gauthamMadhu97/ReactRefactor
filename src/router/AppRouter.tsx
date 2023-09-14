@@ -10,6 +10,7 @@ import ClinchJsIndex from "../pages/components/clinchjs";
 import PlaysList from "../pages/components/Plays/PlayList";
 import PlaysIndexRoute from "../pages/components/Plays/PlaysConfig";
 import CustomerDetailMain from "../pages/components/salesDealCoach";
+import FeatureMain from "../pages/components/FeatureMainChurn";
 const AppRouter = () => {
   return (
     <Router>
@@ -23,6 +24,7 @@ const AppRouter = () => {
         <Route path='/plays' element={<GlobalSideNav><PlaysList /> </GlobalSideNav>} />
         <Route path='/plays/config' element={<PlaysIndexRoute />} />
         <Route path='/sales/dealcoach' element={<GlobalSideNav><CustomerDetailMain /></GlobalSideNav>} />
+        <Route path="/churn/feature" element={<GlobalSideNav><FeatureMain /></GlobalSideNav>} />
       </Routes>
     </Router>
   );
